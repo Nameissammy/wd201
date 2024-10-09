@@ -1,4 +1,4 @@
 const greet = () => {
-  console.log("Hello-world");
+  console.log("Hello-Github!");
 };
 greet();
